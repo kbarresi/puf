@@ -3,8 +3,7 @@ puf (Painless Update Framework) is a cross platform application update framework
 
 I tried to make puf as simple as possible to integrate into new or existing projects, while still having a lot of functionality. puf requires a web server to pull updates from, and I included a Node.js application that does the job. See the server/ directory for more information on that.
 
-
-== Overview 
+## Overview 
 
 puf is written in C++ using the Qt framework for networking and GUI components. The goal of this project is to complete the following deliverables:
 
